@@ -67,6 +67,7 @@ For a clean 8x8 chessboard image:
 ```bash
 Black squares: 32
 White squares: 32
+```
+<img width="1440" alt="Screenshot 2025-04-21 at 5 31 28 PM" src="https://github.com/user-attachments/assets/f960a2b1-4a7e-4c41-81f0-879ecb48ecfa" />
+<img width="1440" alt="Screenshot 2025-04-21 at 5 31 32 PM" src="https://github.com/user-attachments/assets/b0d95630-ea76-4682-9d3c-1a231173cd4f" />
 
-<img width="1440" alt="Screenshot 2025-04-21 at 5 31 32 PM" src="https://github.com/user-attachments/assets/3ab31e39-e56a-42c5-8b80-609caff8e364" />
-<img width="1440" alt="Screenshot 2025-04-21 at 5 31 28 PM" src="https://github.com/user-attachments/assets/ba12bb20-cc60-4236-8658-ec16a4c9bb72" />
